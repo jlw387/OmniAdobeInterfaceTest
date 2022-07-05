@@ -7,7 +7,7 @@ This project was automatically generated.
 
 Open this folder using Visual Studio Code. It will suggest you to install few extensions that will make python experience better.
 
-Look for "omni.custom.viewport.interface.test" extension in extension manager and enable it. Try applying changes to any python files, it will hot-reload and you can observe results immediately.
+Look for "omni.pcg.adobeinterface" extension in extension manager and enable it. Try applying changes to any python files, it will hot-reload and you can observe results immediately.
 
 Alternatively, you can launch your app from console with this folder added to search path and your extension enabled, e.g.:
 
@@ -44,7 +44,7 @@ You can also just pass a path to create link to:
 
 This folder is ready to be pushed to any git repository. Once pushed direct link to a git repository can be added to *Omniverse Kit* extension search paths.
 
-Link might look like this: `git://github.com/[user]/[your_repo].git?branch=main&dir=exts`
+Link might look like this: `git://github.com/jlw387/OmniAdobeInterfaceTest.git?branch=main&dir=exts`
 
 Notice `exts` is repo subfolder with extensions. More information can be found in "Git URL as Extension Search Paths" section of developers manual.
 
